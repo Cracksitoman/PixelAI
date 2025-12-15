@@ -1,0 +1,5 @@
+{
+  "name": "PixelForge AI",
+  "description": "Create stunning video game sprites, characters, and assets in seconds using Gemini AI. Supports various styles like Pixel Art, Vector, and Hand-Drawn with sprite sheet generation capabilities.",
+  "requestFramePermissions": []
+}
